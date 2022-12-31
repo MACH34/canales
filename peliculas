@@ -1,13 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1,HBO 
+#EXTINF:-1 ,HBO 
+
 https://dtvott-abc.akamaized.net/dash_live_1140/dash/1140_HBO_Panam-video=3838800-100346985150554.dash
 
-#EXTINF:-1,SPACE
+#EXTINF:-1 ,SPACE
+
 https://1193-vos.dtvott.com/DASH/stream_08/1667285798923_init.m4i
 
-#EXTINF:-1,FOX
+#EXTINF:-1 ,FOX
+
 https://1129-vos.dtvott.com/DASH/stream_08/1667284829657_init.m4i
 
-#EXTINF:-1,COCO
+#EXTINF:-1 ,COCO
+
 https://drive.google.com/file/d/19DZnzKmr2tx6EDU_TkS_J6DIria0T8v0/view?usp=share_link
